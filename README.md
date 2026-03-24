@@ -105,7 +105,7 @@ locals {
 ## Quick Start
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Chenzie2/Day11-Terraform-Challenge
 cd day-11-conditionals
 terraform init
 ```
